@@ -6,8 +6,15 @@ git diff --> to see the differance in files
 */
 let name = "Rohan Maiti"
 let age = 21;
-const address = "rakhilya,Sabang"
+const address = "rakhilya,Sabang,Paschim medinipur"
 
  function name(name) {
     return name
+}
+
+function age(name){
+    return name[age];
+}
+function address(){
+    return address;
 }
