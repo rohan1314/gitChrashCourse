@@ -12,8 +12,8 @@ const address = "rakhilya,Sabang,Paschim medinipur"
     return name
 }
 
-function age(name){
-    return name[age];
+function age(name11){
+    return name11[age];
 }
 function address(){
     return address;
