@@ -18,3 +18,6 @@ function age(name11){
 function address(){
     return address;
 }
+function newFn(){
+    console.log("hey am a new Fn");
+}
